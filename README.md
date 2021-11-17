@@ -22,7 +22,7 @@
 - [Informatica - Leonardo Duarte](https://www.youtube.com/playlist?list=PLd2ZlMZF0_zHFd46HpY0TplVDMXJcXmhY)
 - [PORTATILES - Leonardo Duarte](https://www.youtube.com/playlist?list=PLd2ZlMZF0_zFrIzI2a5FxknEM5HqGkCPy)
 - [Programación para todos - EDteam](https://www.youtube.com/playlist?list=PLv6CkzbbGAlXU_AjgkmdcWuYWvHJtXkVO)
-- [#Historias](https://www.youtube.com/playlist?list=PLv6CkzbbGAlUuspf-SUvx8gE7zoVLEfvD)
+- [#Historias - EDteam](https://www.youtube.com/playlist?list=PLv6CkzbbGAlUuspf-SUvx8gE7zoVLEfvD)
 
 ## Capacitaciones
 
