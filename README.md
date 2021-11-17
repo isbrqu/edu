@@ -2,7 +2,7 @@
 # Recursos educativos
 
 ## Principales y recomendados
-
+- [Colección de manuales para docentes - <Program.AR/>](https://program.ar/material-didactico/#manuales-docentes)
 - [Microaprendizaje: Hardware y software - Educar Portal](https://www.youtube.com/playlist?list=PLncOCZ_bu7NJfFJAhA-cRaEXanZbdc7-7)
 - [Microaprendizaje: Internet - Educar Portal](https://www.youtube.com/playlist?list=PLncOCZ_bu7NLHZWgN1PZprbPUTuoOpBqV)
 - [Microaprendizaje: Tecnología - Educar Portal](https://www.youtube.com/playlist?list=PLncOCZ_bu7NK0qKdEhXDCTLpJVdf2zi7o)
