@@ -12,14 +12,17 @@
 - [Seguridad en Internet - GCFAprendeLibre](https://www.youtube.com/playlist?list=PLQVIjL9XTrQ1xpWjyAxMICQ2QgSwcxs5G)
 - [Nuevas tecnologías - GCFAprendeLibre](https://www.youtube.com/playlist?list=PLQVIjL9XTrQ1KPcvlB_VjBBO4m0nJJpV7)
 - [Tecnología - GCFAprendeLibre](https://edu.gcfglobal.org/es/subjects/tecnologia)
+- [Divulgación informática - Nate Gentile](https://www.youtube.com/playlist?list=PL3ei_Xb7-ic5g76Fyp0OL623MYGRZ2DSi)
 
 ## Secundarios y avanzados
 
 - [Soporte Tecnico - Infovirtual de Fundación Infocentro](https://www.youtube.com/playlist?list=PLIsnSjA_WExhSMPf2SZu4WLLO32W8-eMa)
 - [Mantenimiento - Leonardo Duarte](https://www.youtube.com/playlist?list=PLd2ZlMZF0_zHAiF1ng47GqEL_199jh3Z4)
+- [¡TODO sobre la RAM! - Nate Gentile](https://www.youtube.com/playlist?list=PL3ei_Xb7-ic6EWu3nYLCxMu2mSmhiAEq7)
 - [Informatica - Leonardo Duarte](https://www.youtube.com/playlist?list=PLd2ZlMZF0_zHFd46HpY0TplVDMXJcXmhY)
 - [PORTATILES - Leonardo Duarte](https://www.youtube.com/playlist?list=PLd2ZlMZF0_zFrIzI2a5FxknEM5HqGkCPy)
 - [Programación para todos - EDteam](https://www.youtube.com/playlist?list=PLv6CkzbbGAlXU_AjgkmdcWuYWvHJtXkVO)
+- [#Historias](https://www.youtube.com/playlist?list=PLv6CkzbbGAlUuspf-SUvx8gE7zoVLEfvD)
 
 ## Capacitaciones
 
